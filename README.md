@@ -1,8 +1,8 @@
 IBM-Project-26485-1660027817
 
-                                                Plasma Donor Application
+Plasma Donor Application
 
-                                           Web Application for Plasma Donation
+Web Application for Plasma Donation
 
 Problem Statement
 
@@ -11,21 +11,29 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 Ideation Phase
 
 Problem Statement
+
 Literature Survey
+
 Empathy Map Canvas
+
 Brain Storming & Idea Prioritization
 
 Project Design Phase-1
 
 Proposed Solution
+
 Problem Solution Fit
+
 Solution Architecture
 
 Project Design Phase-2
 
 Data Flow Diagram
+
 Customer Journey
+
 Functional Architecture
+
 Technology Architecture
 
 Project Planning
@@ -35,4 +43,5 @@ Project Planning and Sprint Delivery Plan
 Project Development Phase
 
 Sprint 1
+
 Sprint 2
