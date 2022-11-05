@@ -18,6 +18,8 @@ Empathy Map Canvas
 
 Brain Storming & Idea Prioritization
 
+
+
 Project Design Phase-1
 
 Proposed Solution
@@ -25,6 +27,8 @@ Proposed Solution
 Problem Solution Fit
 
 Solution Architecture
+
+
 
 Project Design Phase-2
 
@@ -36,9 +40,13 @@ Functional Architecture
 
 Technology Architecture
 
+
+
 Project Planning
 
 Project Planning and Sprint Delivery Plan
+
+
 
 Project Development Phase
 
