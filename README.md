@@ -47,7 +47,6 @@ Project Planning
 Project Planning and Sprint Delivery Plan
 
 
-
 Project Development Phase
 
 Sprint 1
