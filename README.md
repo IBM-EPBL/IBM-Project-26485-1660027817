@@ -34,3 +34,5 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 # Project Development Phase
 * [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%201)
 * [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
+* [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
+* [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
