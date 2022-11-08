@@ -11,10 +11,11 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 
 ## Ideation Phase
 
-* [Problem Statement]()
-* [Literature Survey]()
+* [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/blob/main/PreDevelopment/IdeationPhase/Problem%20Statement.pdf)
+* [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/blob/main/PreDevelopment/IdeationPhase/Literature%20survey%20for%20plasma%20donor%20application.pdf
+)
 * [Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/blob/main/PreDevelopment/IdeationPhase/Plasma%20Donor%20Empathy%20Map.png)
-* [Brain Storming & Idea Prioritization]()
+* [Brain Storming & Idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/blob/main/PreDevelopment/IdeationPhase/Brain%20Storming%20%26%20Idea%20Prioritization.pdf)
 
 ## Project Design Phase-1
 
@@ -34,5 +35,5 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 # Project Development Phase
 * [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%201)
 * [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
-* [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
-* [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%202)
+* [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%203)
+* [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-26485-1660027817/tree/main/ProjectDevelopment/Sprint%204)
